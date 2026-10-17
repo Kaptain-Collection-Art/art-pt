@@ -1,0 +1,6221 @@
+{
+  "tag": "v1",
+  "items": {
+    "anime": {
+      "discover-anime": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "isekai-and-fantasy-sagas": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "shonen-and-action-anime": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "slice-of-life-and-romance": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "sports-and-competition-anime": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "studio-spotlight": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "based-on": {
+      "anime-manga": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "board-games": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "books": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "comics": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "fairy-tale": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "mythology": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "play": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "short-story": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "toy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "true-story": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "tv-show": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "video-games": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "by-decade": {
+      "00s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "10s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "2020s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "50s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "60s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "70s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "80s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "90s-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "discover": {
+      "for-you": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "new-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "new-series": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "top-streaming-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "top-streaming-series": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "trending-movies": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "trending-tv": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "documentaries": {
+      "history-war-and-civilizations": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "investigative-and-scandals": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "music-and-concert-documentaries": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "nature-wildlife-and-earth": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "science-tech-and-cosmos": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "sports-and-athletic-stories": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "true-crime-and-serial-killers": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "film-collections": {
+      "action-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "comedy-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "crime-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "drama-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "family-and-animation-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "fantasy-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "horror-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "mystery-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "sci-fi-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "thriller-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "war-collections": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "genres": {
+      "action": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "adventure": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "animation": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "anime": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "comedy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "crime": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "documentary": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "drama": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "family": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "fantasy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "history": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "horror": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "k-drama": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "martial-arts": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "music-musical": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "mystery": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "romance": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "romantic-comedy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "science-fiction": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "sports": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "stand-up-comedy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "superhero": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "thriller": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "war": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "western": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "international": {
+      "african-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "algerian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "argentine-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "australian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "bangladesh-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "belgian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "brazilian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "british-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "canadian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "chilean-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "chinese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "colombian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "danish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "dutch-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "east-asian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "egyptian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "emirati-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "ethiopian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "filipino-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "finnish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "french-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "german-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "ghanaian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "greek-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "hong-kong-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "icelandic-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "indian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "indonesian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "iraqi-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "irish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "israeli-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "italian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "japanese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "jordanian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "kenyan-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "korean-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "latin-american-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "lebanese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "mexican-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "middle-eastern-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "moroccan-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "nepali-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "nigerian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "nordic-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "north-american-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "norwegian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "pakistani-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "persian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "polish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "portuguese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "russian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "saudi-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "senegalese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "south-african-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "south-asian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "southeast-asian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "spanish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "sri-lankan-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "swedish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "taiwanese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "thai-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "tunisian-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "turkish-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "us-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "vietnamese-cinema": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "kids-and-family": {
+      "animated-studio-spotlight": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "discover-family": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "disney-channel-and-family-tv-series": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "family-movie-night": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "preschool-toddlers-and-little-kids": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "saturday-morning-and-nostalgic-cartoons": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "moods-and-vibes": {
+      "80s-and-90s-vibes": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "adrenaline-rush": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "cozy-and-comforting": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "dark-and-gritty": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "epic-and-sweeping": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "feel-good": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "mind-bending": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "slow-burn": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "spooky-and-creepy": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "tearjerkers": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    },
+    "reality-tv": {
+      "culinary-battles-and-cooking-shows": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "discover-reality-tv": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "game-shows-talent-and-trivia": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "high-stakes-competition-and-survival": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "juicy-drama-dating-and-relationship": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      },
+      "real-estate-home-and-lifestyle-makeovers": {
+        "aurora": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "cinema": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "concrete": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "echo": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ghost-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "ivory": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "nocturne": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "obsidian-v2": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        }
+      }
+    }
+  }
+}
