@@ -1,5 +1,5 @@
 {
-  "tag": "v2",
+  "tag": "v3",
   "items": {
     "anime": {
       "discover-anime": {
@@ -48,6 +48,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -100,6 +104,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "shonen-and-action-anime": {
@@ -148,6 +156,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -200,6 +212,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "sports-and-competition-anime": {
@@ -250,6 +266,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "studio-spotlight": {
@@ -298,6 +318,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -352,6 +376,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "board-games": {
@@ -400,6 +428,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -452,6 +484,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "comics": {
@@ -500,6 +536,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -552,6 +592,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "mythology": {
@@ -600,6 +644,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -652,6 +700,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "short-story": {
@@ -700,6 +752,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -752,6 +808,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "true-story": {
@@ -800,6 +860,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -852,6 +916,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "video-games": {
@@ -900,6 +968,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -954,6 +1026,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "10s-movies": {
@@ -1002,6 +1078,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1054,6 +1134,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "50s-movies": {
@@ -1102,6 +1186,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1154,6 +1242,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "70s-movies": {
@@ -1202,6 +1294,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1254,6 +1350,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "90s-movies": {
@@ -1302,6 +1402,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1356,6 +1460,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "new-movies": {
@@ -1404,6 +1512,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1456,6 +1568,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "top-streaming-movies": {
@@ -1504,6 +1620,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1556,6 +1676,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "trending-movies": {
@@ -1606,6 +1730,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "trending-tv": {
@@ -1654,6 +1782,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1708,6 +1840,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "investigative-and-scandals": {
@@ -1756,6 +1892,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1808,6 +1948,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "nature-wildlife-and-earth": {
@@ -1856,6 +2000,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -1908,6 +2056,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "sports-and-athletic-stories": {
@@ -1958,6 +2110,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "true-crime-and-serial-killers": {
@@ -2006,6 +2162,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2060,6 +2220,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "comedy-collections": {
@@ -2108,6 +2272,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2160,6 +2328,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "drama-collections": {
@@ -2208,6 +2380,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2260,6 +2436,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "fantasy-collections": {
@@ -2308,6 +2488,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2360,6 +2544,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "mystery-collections": {
@@ -2408,6 +2596,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2460,6 +2652,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "thriller-collections": {
@@ -2510,6 +2706,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "war-collections": {
@@ -2558,6 +2758,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2612,6 +2816,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "adventure": {
@@ -2660,6 +2868,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2712,6 +2924,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "anime": {
@@ -2760,6 +2976,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2812,6 +3032,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "crime": {
@@ -2860,6 +3084,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -2912,6 +3140,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "drama": {
@@ -2960,6 +3192,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3012,6 +3248,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "fantasy": {
@@ -3060,6 +3300,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3112,6 +3356,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "horror": {
@@ -3160,6 +3408,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3212,6 +3464,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "martial-arts": {
@@ -3260,6 +3516,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3312,6 +3572,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "mystery": {
@@ -3360,6 +3624,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3412,6 +3680,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "romantic-comedy": {
@@ -3460,6 +3732,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3512,6 +3788,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "sports": {
@@ -3560,6 +3840,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3612,6 +3896,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "superhero": {
@@ -3660,6 +3948,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3712,6 +4004,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "war": {
@@ -3762,6 +4058,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "western": {
@@ -3810,6 +4110,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3864,6 +4168,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "algerian-cinema": {
@@ -3912,6 +4220,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -3964,6 +4276,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "australian-cinema": {
@@ -4012,6 +4328,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4064,6 +4384,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "belgian-cinema": {
@@ -4112,6 +4436,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4164,6 +4492,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "british-cinema": {
@@ -4212,6 +4544,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4264,6 +4600,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "chilean-cinema": {
@@ -4312,6 +4652,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4364,6 +4708,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "colombian-cinema": {
@@ -4412,6 +4760,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4464,6 +4816,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "dutch-cinema": {
@@ -4512,6 +4868,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4564,6 +4924,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "egyptian-cinema": {
@@ -4612,6 +4976,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4664,6 +5032,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "ethiopian-cinema": {
@@ -4712,6 +5084,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4764,6 +5140,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "finnish-cinema": {
@@ -4812,6 +5192,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4864,6 +5248,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "german-cinema": {
@@ -4912,6 +5300,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -4964,6 +5356,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "greek-cinema": {
@@ -5012,6 +5408,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5064,6 +5464,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "icelandic-cinema": {
@@ -5112,6 +5516,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5164,6 +5572,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "indonesian-cinema": {
@@ -5212,6 +5624,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5264,6 +5680,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "irish-cinema": {
@@ -5312,6 +5732,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5364,6 +5788,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "italian-cinema": {
@@ -5412,6 +5840,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5464,6 +5896,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "jordanian-cinema": {
@@ -5512,6 +5948,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5564,6 +6004,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "korean-cinema": {
@@ -5612,6 +6056,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5664,6 +6112,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "lebanese-cinema": {
@@ -5712,6 +6164,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5764,6 +6220,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "middle-eastern-cinema": {
@@ -5812,6 +6272,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5864,6 +6328,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "nepali-cinema": {
@@ -5912,6 +6380,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -5964,6 +6436,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "nordic-cinema": {
@@ -6012,6 +6488,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6064,6 +6544,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "norwegian-cinema": {
@@ -6112,6 +6596,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6164,6 +6652,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "persian-cinema": {
@@ -6212,6 +6704,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6264,6 +6760,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "portuguese-cinema": {
@@ -6312,6 +6812,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6364,6 +6868,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "saudi-cinema": {
@@ -6412,6 +6920,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6464,6 +6976,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "south-african-cinema": {
@@ -6512,6 +7028,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6564,6 +7084,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "southeast-asian-cinema": {
@@ -6612,6 +7136,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6664,6 +7192,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "sri-lankan-cinema": {
@@ -6712,6 +7244,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6764,6 +7300,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "taiwanese-cinema": {
@@ -6812,6 +7352,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6864,6 +7408,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "tunisian-cinema": {
@@ -6912,6 +7460,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -6964,6 +7516,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "us-cinema": {
@@ -7014,6 +7570,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "vietnamese-cinema": {
@@ -7062,6 +7622,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7116,6 +7680,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "discover-family": {
@@ -7164,6 +7732,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7216,6 +7788,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "family-movie-night": {
@@ -7264,6 +7840,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7316,6 +7896,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "saturday-morning-and-nostalgic-cartoons": {
@@ -7364,6 +7948,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7418,6 +8006,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "adrenaline-rush": {
@@ -7466,6 +8058,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7518,6 +8114,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "dark-and-gritty": {
@@ -7566,6 +8166,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7618,6 +8222,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "feel-good": {
@@ -7666,6 +8274,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7718,6 +8330,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "slow-burn": {
@@ -7766,6 +8382,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7818,6 +8438,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "tearjerkers": {
@@ -7866,6 +8490,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -7920,6 +8548,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "discover-reality-tv": {
@@ -7968,6 +8600,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -8020,6 +8656,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "high-stakes-competition-and-survival": {
@@ -8068,6 +8708,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
@@ -8120,6 +8764,10 @@
         "tonal": {
           "cover": "png",
           "hover": "gif"
+        },
+        "v1": {
+          "cover": "png",
+          "hover": "gif"
         }
       },
       "real-estate-home-and-lifestyle-makeovers": {
@@ -8168,6 +8816,10 @@
           "hover": "gif"
         },
         "tonal": {
+          "cover": "png",
+          "hover": "gif"
+        },
+        "v1": {
           "cover": "png",
           "hover": "gif"
         }
